@@ -4,7 +4,7 @@ import './Header.css';
 export default function Header(){
   return(
     <>
-    <ul>
+    <ul className="header">
       <li>MAO BLOG</li>
       <li>MENU</li>
     </ul>
