@@ -6,8 +6,7 @@ export default function Header(){
     <>
     <ul>
       <li>MAO BLOG</li>
-      <li>Início </li>
-      <li>Sobre Mim</li>
+      <li>MENU</li>
     </ul>
     </>
   )

@@ -1,0 +1,19 @@
+.banner__img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.main__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 5px;
+}
+
+.main__resume {
+  text-align: justify;
+  padding: 3px;
+}
