@@ -1,10 +1,14 @@
 import React from 'react';
 import './Feed.css';
+import ItemFeed from './ItemFeed/ItemFeed'
 
 export default function Feed(){
   return(
     <>
-    <p>Teste</p>
+      <ItemFeed />
+      <ItemFeed />
+      <ItemFeed />
+
     </>
   )
 }
