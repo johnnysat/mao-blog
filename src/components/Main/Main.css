@@ -1,8 +1,16 @@
+.main__content {
+  padding: 2rem;
+  width: 100%;
+  display: grid;
+  grid-template-areas: 
+  "image title"
+  "image resume" ;
+}
+
 .main__img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   padding: 5px;
+  border-radius: 20px;
+  grid-area: image;
 }
 
 .main__title {
@@ -11,9 +19,11 @@
   align-items: center;
   width: 100%;
   padding: 5px;
+  grid-area: title
 }
 
 .main__resume {
   text-align: justify;
-  padding: 3px;
+  padding: 1rem;
+  grid-area: resume;
 }
