@@ -1,4 +1,6 @@
-* {
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700&display=swap');
+
+  * {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
@@ -8,4 +10,5 @@
   width: 100%;
   padding: 2rem;
   background-color: #EBEBEB;
+  font-family: 'Unbounded', cursive;
 }
