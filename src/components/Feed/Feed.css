@@ -1,0 +1,7 @@
+.feed__content {
+  display: flex;
+}
+
+.feed__image {
+  width: 250px;
+}
