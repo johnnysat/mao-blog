@@ -1,5 +1,15 @@
+.footer__tittle{ 
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
 .footer__list {
   display: flex;
   list-style: none;
   justify-content: space-between;
+  height: 20px;
+  padding: 0 20%;
 }
