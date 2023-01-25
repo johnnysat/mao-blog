@@ -3,6 +3,17 @@
   flex-basis: 25%;
 }
 
+.feed__image {
+  border-radius: 5%;
+}
+
+.feed__tittle{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
 .feed__resume {
   text-align: justify;
   width: 100%;
