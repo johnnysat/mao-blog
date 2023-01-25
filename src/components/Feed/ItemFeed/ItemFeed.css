@@ -1,7 +1,9 @@
 .feed__card {
   padding: 1rem;
+  flex-basis: 25%;
 }
 
 .feed__resume {
   text-align: justify;
+  width: 100%;
 }

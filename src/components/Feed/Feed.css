@@ -1,6 +1,6 @@
 .feed__content {
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .feed__image {
