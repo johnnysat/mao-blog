@@ -8,6 +8,8 @@ export default function Feed(){
       <ItemFeed />
       <ItemFeed />
       <ItemFeed />
+      <ItemFeed />
+      <ItemFeed />
     </div>
   )
 }
